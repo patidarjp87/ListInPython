@@ -15,4 +15,5 @@ for x in l1:
         fr=(count/length)*100
         print('frequncy of element',x,'is',fr,'%')
         i+=1
+input()
         
